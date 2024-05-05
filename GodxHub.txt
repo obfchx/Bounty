@@ -1,20 +1,20 @@
 local players = game:GetService("Players")
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "GodxHub";
+    Title = "God X Hub";
     Text = "Check Player";
     Icon = "rbxthumb://type=Asset&id=17393523059&w=150&h=150";
     Duration = 10
 })
 local players = game:GetService("Players")
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Godx Hub";
+    Title = "God X Hub";
     Text = "Check Race";
     Icon = "rbxthumb://type=Asset&id=17393523059&w=150&h=150",
     Duration = 9
 })
 local players = game:GetService("Players")
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Godx Hub";
+    Title = "God X Hub";
     Text = "Check Bounty";
     Icon = "rbxthumb://type=Asset&id=17393523059&w=150&h=150",
     Duration = 8
