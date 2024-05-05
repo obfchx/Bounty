@@ -29,7 +29,7 @@ ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageLabel.BorderSizePixel = 0
 ImageLabel.Position = UDim2.new(0, 175, 0, 40)
 ImageLabel.Size = UDim2.new(0, 480, 0, 250)
-ImageLabel.Image = "rbxassetid://17393621990"
+ImageLabel.Image = "rbxassetid://17393812853"
 _G.WalkWater = true
 spawn(function()
   while task.wait() do
