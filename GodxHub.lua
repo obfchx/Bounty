@@ -1,7 +1,7 @@
 local players = game:GetService("Players")
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "W Azure";
-    Text = "Godx Hub";
+    Title = "Godx Hub";
+    Text = "Local Player";
     Icon = "rbxthumb://type=Asset&id=17393523059&w=150&h=150";
     Duration = 10
 })
