@@ -20,23 +20,6 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
     Icon = "rbxthumb://type=Asset&id=17393523059&w=150&h=150",
     Duration = 8
 })
-local ScreenGui1 = Instance.new("ScreenGui")
-local ImageButton1 = Instance.new("ImageButton")
-local UICorner = Instance.new("UICorner")
-local UIStroke = Instance.new("UIStroke")
-ScreenGui1.Name = "ImageButton"
-ScreenGui1.Parent = game.CoreGui
-ScreenGui1.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-ImageButton1.Parent = ScreenGui1
-ImageButton1.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-ImageButton1.BorderSizePixel = 0
-ImageButton1.Position = UDim2.new(0, 175, 0, 40)
-ImageButton1.Size = UDim2.new(0, 480, 0, 250)
-ImageButton1.Draggable = false
-ImageButton1.Image = "http://www.roblox.com/asset/?id=17393812853"
-UICorner.Parent = ImageButton1
-UIStroke.Thickness = 0.5
-UIStroke.Parent = ImageButton1
 _G.WalkWater = true
 spawn(function()
   while task.wait() do
