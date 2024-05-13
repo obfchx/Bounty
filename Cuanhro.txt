@@ -1,0 +1,5030 @@
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Player";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Race";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Check Bounty";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 10
+})
+repeat wait(11) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150";
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+repeat wait(1.5) until game:IsLoaded()
+local players = game:GetService("Players")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Synergy Hub";
+    Text = "Melee";
+    Icon = "rbxthumb://type=Asset&id=17479897403&w=150&h=150",
+    Duration = 1
+})
+local ScreenGui1 = Instance.new("ScreenGui")
+local ImageButton1 = Instance.new("ImageButton")
+local UICorner = Instance.new("UICorner")
+local UIStroke = Instance.new("UIStroke")
+ScreenGui1.Name = "ImageButton"
+ScreenGui1.Parent = game.CoreGui
+ScreenGui1.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ImageButton1.AnchorPoint = Vector2.new(0.5, 0.5)
+ImageButton1.Parent = ScreenGui1
+ImageButton1.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ImageButton1.BorderSizePixel = 0
+ImageButton1.Position = UDim2.new(0.5, 0, 0.5, 0)
+ImageButton1.Size = UDim2.new(0, 480, 0, 250)
+ImageButton1.Draggable = false
+ImageButton1.Image = "http://www.roblox.com/asset/?id=17443350676"
+UICorner.Parent = ImageButton1
+UIStroke.Thickness = 0.5
+UIStroke.Parent = ImageButton1
+_G.WalkWater = true
+
+spawn(function()
+  while task.wait() do
+    pcall(function()
+      if _G.WalkWater then
+        game:GetService("Workspace").Map["WaterBase-Plane"].Size = Vector3.new(1000,112,1000)
+        else
+          game:GetService("Workspace").Map["WaterBase-Plane"].Size = Vector3.new(1000,80,1000)
+      end
+    end)
+  end
+end)
+_G.click = true
+
+spawn(function()
+    game:GetService("RunService").RenderStepped:Connect(function()
+        if _G.click then
+             pcall(function()
+                game:GetService'VirtualUser':CaptureController()
+			    game:GetService'VirtualUser':Button1Down(Vector2.new(0,1,0,1))
+            end)
+        end
+    end)
+end)
+ task.spawn(function()
+    while task.wait() do
+        if game.Players.LocalPlayer.PlayerGui:FindFirstChild("BountyTracker") then
+            game.Players.LocalPlayer.PlayerGui.BountyTracker:Destroy()
+            break
+        end
+    end
+end)
