@@ -10,15 +10,33 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "Godx Hub";
     Text = "Check Race";
     Icon = "rbxthumb://type=Asset&id=17393523059&w=150&h=150",
-    Duration = 9
+    Duration = 9.5
 })
 local players = game:GetService("Players")
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "Godx Hub";
     Text = "Check Bounty";
     Icon = "rbxthumb://type=Asset&id=17393523059&w=150&h=150",
-    Duration = 8
+    Duration = 9
 })
+local ScreenGui1 = Instance.new("ScreenGui")
+local ImageButton1 = Instance.new("ImageButton")
+local UICorner = Instance.new("UICorner")
+local UIStroke = Instance.new("UIStroke")
+ScreenGui1.Name = "ImageButton"
+ScreenGui1.Parent = game.CoreGui
+ScreenGui1.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ImageButton1.AnchorPoint = Vector2.new(0.5, 0.5)
+ImageButton1.Parent = ScreenGui1
+ImageButton1.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ImageButton1.BorderSizePixel = 0
+ImageButton1.Position = UDim2.new(0.5, 0, 0.5, 0)
+ImageButton1.Size = UDim2.new(0, 480, 0, 250)
+ImageButton1.Draggable = true
+ImageButton1.Image = "http://www.roblox.com/asset/?id=17443350676"
+UICorner.Parent = ImageButton1
+UIStroke.Thickness = 0.5
+UIStroke.Parent = ImageButton1
 _G.WalkWater = true
 
 spawn(function()
@@ -32,6 +50,21 @@ spawn(function()
     end)
   end
 end)
+_G.Noclip = true
+
+spawn(function()
+  pcall(function()
+    game:GetService("RunService").Stepped:Connect(function()
+      if _G.Noclip then
+      for i,v in pairs(game:GetService("Players").LocalPlayer.Character:GetDescendants()) do
+      if v:IsA("BasePart") then
+      v.CanCollide = false
+      end
+      end
+      end
+      end)
+    end)
+  end)
  task.spawn(function()
     while task.wait() do
         if game.Players.LocalPlayer.PlayerGui:FindFirstChild("BountyTracker") then
@@ -40,15 +73,39 @@ end)
         end
     end
 end)
-_G.click = true
+_G.FastAttack2 = true
+
+    local CameraShaker = require(game.ReplicatedStorage.Util.CameraShaker)
+CombatFrameworkR = require(game:GetService("Players").LocalPlayer.PlayerScripts.CombatFramework)
+y = debug.getupvalues(CombatFrameworkR)[2]
+spawn(function()
+    game:GetService("RunService").RenderStepped:Connect(function()
+        if _G.FastAttack2 then
+            if typeof(y) == "table" then
+                pcall(function()
+                    CameraShaker:Stop()
+                    y.activeController.timeToNextAttack = (math.huge^math.huge^math.huge)
+                    y.activeController.timeToNextAttack = 0
+                    y.activeController.hitboxMagnitude = 9999
+                    y.activeController.active = false
+                    y.activeController.timeToNextBlock = 0
+                    y.activeController.focusStart = 0
+                    y.activeController.increment = 4
+                    y.activeController.blocking = false
+                    y.activeController.attacking = false
+                    y.activeController.humanoid.AutoRotate = true
+                end)
+            end
+        end
+    end)
+end)
 
 spawn(function()
     game:GetService("RunService").RenderStepped:Connect(function()
-        if _G.click then
-             pcall(function()
-                game:GetService'VirtualUser':CaptureController()
-			    game:GetService'VirtualUser':Button1Down(Vector2.new(0,1,0,1))
-            end)
+        if _G.FastAttack2 == true then
+            game.Players.LocalPlayer.Character.Stun.Value = 0
+            game.Players.LocalPlayer.Character.Humanoid.Sit = false
+            game.Players.LocalPlayer.Character.Busy.Value = false        
         end
     end)
 end)
